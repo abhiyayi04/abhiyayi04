@@ -46,7 +46,7 @@ I learn best by building something, breaking it, figuring out why it broke, and 
 `LangChain` `LangGraph` `PyTorch` `RAG` `Embeddings` `scikit-learn`
 
 ### Data & Infrastructure
-`PostgreSQL` `MySQL` `Redis` `Qdrant` `Kafka`
+`PostgreSQL` `MySQL` `Redis` `Qdrant`
 
 ### Cloud & DevOps
 `AWS` `Docker` `Kubernetes` `GitHub Actions`
@@ -56,7 +56,7 @@ I learn best by building something, breaking it, figuring out why it broke, and 
 ## 📬 Let's Connect
 
 I'm always interested in connecting with engineers working on
-**AI systems, backend infrastructure, distributed systems, and applied ML**.
+**AI systems, backend infrastructure, and applied ML**.
 
 **LinkedIn:** [linkedin.com/in/abhi-chandra-yayi](https://www.linkedin.com/in/abhi-chandra-yayi/)  
 **Email:** [abhichandrayayi@gmail.com](mailto:abhichandrayayi@gmail.com)
