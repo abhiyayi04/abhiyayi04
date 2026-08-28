@@ -24,7 +24,7 @@ I use AI tools heavily while building, but I try to use them to move faster with
 
 ---
 
-## 📖 What I'm actively learning
+## 📖 Currently Exploring
 
 - Designing reliable agentic systems with LangGraph
 - How RAG systems behave beyond the basic retrieval → prompt → answer pattern
@@ -39,15 +39,36 @@ I learn best by building something, breaking it, figuring out why it broke, and 
 
 ## 💡 Things I find interesting
 
-- Why distributed systems fail in unexpected ways
-- How to make AI systems reliable rather than just impressive in a demo
+- How the infrastructure surrounding AI applications determines whether they’re reliable in production
 - What belongs in an agent versus normal deterministic software
 - Designing systems that are easy to debug and maintain
 - The engineering gap between an AI prototype and a production product
 
 ---
 
-## 📬 Reach me
+## 🛠️ Tech Stack
+
+### Languages
+`Python` `Java` `SQL` `JavaScript`
+
+### Backend
+`Django` `FastAPI` `Flask` `Spring Boot` `REST APIs`
+
+### AI / ML
+`LangChain` `LangGraph` `PyTorch` `RAG` `Embeddings` `scikit-learn`
+
+### Data & Infrastructure
+`PostgreSQL` `MySQL` `Redis` `Qdrant` `Kafka`
+
+### Cloud & DevOps
+`AWS` `Docker` `Kubernetes` `GitHub Actions`
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in connecting with engineers working on
+**AI systems, backend infrastructure, distributed systems, and applied ML**.
 
 **LinkedIn:** [linkedin.com/in/abhi-chandra-yayi](https://www.linkedin.com/in/abhi-chandra-yayi/)  
 **Email:** [abhichandrayayi@gmail.com](mailto:abhichandrayayi@gmail.com)
