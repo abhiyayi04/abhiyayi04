@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Abhi 👋
 
-<!--
-**abhiyayi04/abhiyayi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer focused on **backend systems, applied AI, and cloud infrastructure**.
 
-Here are some ideas to get you started:
+I studied Information Technology at Arizona State University and graduated in May 2026. Most of the work I enjoy sits somewhere between software engineering and AI: building APIs, backend workflows, retrieval systems, agentic applications, and the infrastructure needed to make them actually work outside of a demo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a Software Engineer at **Gabriel AI**, where I've been working across Django, React, Node, AWS, and asynchronous backend systems.
+
+Lately, I've been especially interested in understanding how modern AI systems are engineered in production — not just how to call a model, but how retrieval, orchestration, evaluation, reliability, observability, and infrastructure fit together.
+
+I use AI tools heavily while building, but I try to use them to move faster without skipping the underlying understanding.
+
+---
+
+## 🧠 What I'm comfortable with
+
+- Backend development with Python and Java
+- Building REST APIs and asynchronous workflows
+- Working with relational databases, Redis, and queues
+- RAG pipelines, embeddings, and agentic workflows
+- AWS, Docker, and production-oriented deployment
+- Reading unfamiliar codebases and figuring out how systems fit together
+- Data structures, algorithms, and software design fundamentals
+
+---
+
+## 📖 What I'm actively learning
+
+- Designing reliable agentic systems with LangGraph
+- How RAG systems behave beyond the basic retrieval → prompt → answer pattern
+- LLM evaluation, fine-tuning, and post-training
+- Distributed systems and backend architecture
+- Production AI patterns — caching, queues, retries, monitoring, and observability
+- Kubernetes, CI/CD, and infrastructure for scalable applications
+
+I learn best by building something, breaking it, figuring out why it broke, and improving the design.
+
+---
+
+## 💡 Things I find interesting
+
+- Why distributed systems fail in unexpected ways
+- How to make AI systems reliable rather than just impressive in a demo
+- What belongs in an agent versus normal deterministic software
+- Designing systems that are easy to debug and maintain
+- The engineering gap between an AI prototype and a production product
+
+---
+
+## 📬 Reach me
+
+**LinkedIn:** [linkedin.com/in/abhi-chandra-yayi](https://www.linkedin.com/in/abhi-chandra-yayi/)  
+**Email:** [abhichandrayayi@gmail.com](mailto:abhichandrayayi@gmail.com)
