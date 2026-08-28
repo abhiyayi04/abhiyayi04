@@ -2,25 +2,13 @@
 
 I'm a Software Engineer focused on **backend systems, applied AI, and cloud infrastructure**.
 
-I studied Information Technology at Arizona State University and graduated in May 2026. Most of the work I enjoy sits somewhere between software engineering and AI: building APIs, backend workflows, retrieval systems, agentic applications, and the infrastructure needed to make them actually work outside of a demo.
+I studied Information Technology at Arizona State University and graduated in May 2026 with a 3.98 GPA and the prestigious Moeur Award. Most of the work I enjoy sits somewhere between software engineering and AI: building APIs, backend workflows, retrieval systems, agentic applications, and the infrastructure needed to make them actually work outside of a demo.
 
 I'm currently a Software Engineer at **Gabriel AI**, where I've been working across Django, React, Node, AWS, and asynchronous backend systems.
 
-Lately, I've been especially interested in understanding how modern AI systems are engineered in production — not just how to call a model, but how retrieval, orchestration, evaluation, reliability, observability, and infrastructure fit together.
+Lately, I've been especially interested in understanding how modern AI systems are engineered in production, not just how to call a model, but how retrieval, orchestration, evaluation, reliability, observability, and infrastructure fit together.
 
 I use AI tools heavily while building, but I try to use them to move faster without skipping the underlying understanding.
-
----
-
-## 🧠 What I'm comfortable with
-
-- Backend development with Python and Java
-- Building REST APIs and asynchronous workflows
-- Working with relational databases, Redis, and queues
-- RAG pipelines, embeddings, and agentic workflows
-- AWS, Docker, and production-oriented deployment
-- Reading unfamiliar codebases and figuring out how systems fit together
-- Data structures, algorithms, and software design fundamentals
 
 ---
 
@@ -37,7 +25,7 @@ I learn best by building something, breaking it, figuring out why it broke, and 
 
 ---
 
-## 💡 Things I find interesting
+## 💡 Things I find fascinating
 
 - How the infrastructure surrounding AI applications determines whether they’re reliable in production
 - What belongs in an agent versus normal deterministic software
